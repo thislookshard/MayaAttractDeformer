@@ -2,6 +2,8 @@
 
 **MayaAttractDeformer** is a custom Maya node that morphs a mesh toward a separate target object, as if the target acts as a magnet pulling the surface of the mesh. This is useful for creating attraction-based deformations, morphing effects, or dynamic mesh interactions inside Autodesk Maya.
 
+![Display](showcase.gif)
+
 ## Features
 
 - **Attracts/Morphs mesh vertices toward a separate object (target)**
